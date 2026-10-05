@@ -1,0 +1,1 @@
+ingress from alb sg only (SOLUTION)
